@@ -1,12 +1,12 @@
 Users can create an account, log in and note anything they want in the most convenient way. Can log out and log in multiple accounts..
 
-<p align="center">
-  <img src="img/signin.png" width=800><br/>
+<p align="left">
+  <img src="img/signin.png" width=400><br/>
   <i>Sign in</i>
 </p>
 
-<p align="center">
-  <img src="img/signup.png" width=800><br/>
+<p align="right">
+  <img src="img/signup.png" width=400><br/>
   <i>Sign Up</i>
 </p>
 
